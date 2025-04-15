@@ -1,5 +1,7 @@
 # ELTrack-Correlating-Events-and-Language-for-Visual-Tracking
 ELTrack: Correlating Events and Language for Visual Tracking
+We will update this repo soon.
+
 
 ## Introduction
 - This repository contains the official implementation of ELTrack: Correlating Events and Language for Visual Tracking.
